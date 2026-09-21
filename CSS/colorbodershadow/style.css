@@ -1,0 +1,40 @@
+.main{
+    background-color: rgb(216,217,217);
+    
+}
+body{
+    background-color: beige;
+}
+#card{
+    background-color: cornsilk;
+    width: 500px;
+    height: 300px;
+    border: 1px solid #000;
+
+    h3{
+        color: rgb(234 , 161 , 4);
+    }
+}
+ #card p{
+    background-color: blue;
+    color:red;
+    border: 5px double black;
+    height:230px;
+    overflow:auto;
+    
+}
+#ClickBtn{
+    background-color: greenyellow;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px 1px gray;
+}
+#ClickBtn :hover{
+    background-color: white;
+    color: #01ff0d;
+    
+}
+#ClickBtn:active{
+    background-color: #01ff0d;
+    color: white;
+}
