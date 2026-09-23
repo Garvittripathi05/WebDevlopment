@@ -1,0 +1,15 @@
+#a{
+    width: 500px;
+    border: 1px black solid;
+}        
+#h{
+    width: 70%;
+    border: 1px black solid;
+}
+#b{
+    width: 250px;
+    height: 250px;
+    border: 1px black solid;
+    margin: 20px;
+    padding: 30px;
+}
