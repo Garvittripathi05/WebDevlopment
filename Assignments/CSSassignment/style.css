@@ -1,0 +1,74 @@
+.container{
+    margin: auto;
+    width: 1250px;
+    height: 600px;
+    background-color: rgb(8, 125, 164);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    height: 100vh;
+}
+
+
+.loginin-box{
+    width: 350px;
+    background: white;
+    padding: 30px;
+    border: 1px solid blue;
+    border-radius: 15px;
+    background-color: white;
+    min-height: 420px;
+}
+.input-box{
+    margin-bottom: 25px;
+   
+   
+}
+.options{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+button{
+    width: 100%;
+    padding: 12px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.signup{
+    text-align: center;
+    margin-top: 20px;
+  
+}
+
+.registration-details{
+     width: 350px;
+    background: white;
+    padding: 30px;
+    border: 1px solid blue;
+    border-radius: 15px;
+    background-color: white;
+    min-height: 520px;
+    
+    
+    
+}
+
+.input{
+    margin-bottom: 20px;
+}
+
+.option-s{
+    display: flex;
+}
+.sign-up{
+    text-align: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+.personal-outer{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    row-gap: 10px;
+}
+
+.contact-outer{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 10px;
+}
+.details-outer{
+    /* padding: 10px; */
+    display: grid;
+    grid-template-columns: auto auto auto auto auto  auto auto;
+    row-gap: 10px;
+}
+.language-details{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    row-gap: 10px;
+}
+.pehchan{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 5px;
+}
+h1{
+    text-align: center ;
+}
