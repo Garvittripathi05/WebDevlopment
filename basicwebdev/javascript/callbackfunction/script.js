@@ -16,3 +16,4 @@ function sum(m , n ,jor){
 
 
 sum(5,6,add);
+multiple(2,3);
