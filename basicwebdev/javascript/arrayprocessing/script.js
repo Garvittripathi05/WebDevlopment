@@ -18,6 +18,7 @@ ary.map((element) =>{
     
 
 
+
 const ary2=["Apple", 2.5 ,99,"Himachal", "a" ];
 
 var F=ary2.filter((item)=> {
@@ -25,4 +26,10 @@ var F=ary2.filter((item)=> {
     item=="99";
 });
 
+const ary2=["Apple", 2.5 ,99,"Himachal", "a" ];
+
+var F=ary2.filter((item)=> {
+
+    item=="99";
+});
 
